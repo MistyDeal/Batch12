@@ -12,5 +12,8 @@ public class GitHomework {
 	
 
 	}
+	public static void abc(char a, char b){
+		System.out.println(a+b);
+	}
 
 }
