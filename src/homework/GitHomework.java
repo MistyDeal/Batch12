@@ -8,4 +8,6 @@ public class GitHomework {
 	public void getCountry() {
 		System.out.println("USA");
 	}
+	public void getState(){
+		System.out.println("California");
 }
