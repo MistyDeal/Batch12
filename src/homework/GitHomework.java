@@ -18,5 +18,8 @@ public class GitHomework {
 	public static void divide(int a, int b) {
 		System.out.println(a/b);
 	}
+	public static void minus(int a, int b) {
+		System.out.println(b - a);
+	}
 
 }
