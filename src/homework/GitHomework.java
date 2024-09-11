@@ -11,6 +11,9 @@ public class GitHomework {
 	}
 	public static void add(int a, int b) {
 		System.out.println(a+b);
+		char grade = 'A';
+		int raise = 20;
+		String symptom = "headache";
 	
 	
 
