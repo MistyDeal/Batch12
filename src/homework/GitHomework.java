@@ -20,6 +20,9 @@ public class GitHomework {
 	}
 	public static void abc(char a, char b){
 		System.out.println(a+b);
+		String frustration = "ex-husband";
+		int years = 12;
+		String solution = "divorce";
 	}
 	public static void divide(int a, int b) {
 		System.out.println(a/b);
